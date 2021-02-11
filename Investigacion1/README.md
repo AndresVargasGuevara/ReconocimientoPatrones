@@ -1,2 +1,1 @@
-# ReconocimientoPatrones
-ReconocimientoPatrones
+# Investigacion1
